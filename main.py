@@ -1,7 +1,6 @@
 # Overwatch 2 Beta Signup
 # Author: @nas4547
 import sys
-
 import selenium
 import pyautogui as pg
 from selenium import webdriver
